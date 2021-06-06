@@ -1,7 +1,7 @@
 body {
-  background-color: khaki;
+  background-color: #184e77;
   font-family: Avenir;
-  color: #184e77;
+  color: khaki;
 }
 
 h1 {
@@ -41,6 +41,6 @@ h2 {
 }
 
 .card {
-  background-color: khaki;
+  background-color: #184e77;
   margin-bottom: 30px;
 }
