@@ -1,0 +1,41 @@
+body {
+  background-color: khaki;
+  font-family: Avenir;
+  color: #184e77;
+}
+
+h1 {
+  text-align: center;
+  font-size: 80px;
+  font-family: "Karantina", cursive;
+}
+
+h2 {
+  margin-top: 60px;
+}
+
+.hobbies {
+  font-weight: bold;
+  color: #1e6091;
+}
+
+#list {
+  border: #081c15 solid 20px;
+}
+
+/* img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+} */
+
+.carousel-item > img {
+  /* width: inherit; */
+  height: 400px;
+  max-height: 400px;
+}
+
+#myCarousel {
+  margin-bottom: 30px;
+}
